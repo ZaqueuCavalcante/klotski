@@ -1,4 +1,4 @@
-# klotski
+# Klotski
 
 Klotski game.
 
